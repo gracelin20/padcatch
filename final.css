@@ -8,7 +8,7 @@ body {
     left: -175px;
     transition: 0.2s;
     padding: 20px;
-    width: 180px;
+    width: 200px;
     text-decoration: none;
     font-size: 20px;
     color: white;
@@ -30,7 +30,7 @@ body {
 }
 
 #contact {
-    top: 190px;
+    top: 180px;
     background-color: #f44336;
 }
 
