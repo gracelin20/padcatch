@@ -1,7 +1,6 @@
 body {
   font-family : 'edoregular';
-  font-family: 'Oswald', sans-serif;
-  background-image:url("background1.jpg");
+  font-family: 'Oswald', sans-serif
 }
 h1 {
     color: #ffdb4d;
@@ -15,6 +14,12 @@ h2 {
   text-align: center;
   font-size: 40px;
   font-family: "Oswald";
+
 h3 {
   font-family: "Oswald";
+}
+
+.header {
+  font-family: 'edoregular';
+  font-color: #ffdb4d;
 }
