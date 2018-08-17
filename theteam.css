@@ -1,5 +1,5 @@
 body  {
-    background-image: url("background.jpeg");
+    background-image: url("test.jpg");
     width: 100%;
     overflow: auto;
     font-family: "edoregular";
@@ -20,7 +20,7 @@ h4 {
   color: white;
   text-align: center;
   font-family: "oswald";
-  font-size: 30px;
+  font-size: 28px;
 
 }
 
@@ -34,6 +34,6 @@ h5 {
   color: white;
   text-align: center;
   font-family: "oswald";
-  font-size: 50px;
+  font-size: 45px;
 
 }
