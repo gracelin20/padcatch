@@ -1,7 +1,7 @@
 
 body {
   font-family: "Oswald",sans-serif;
-  background-image: url("backgroundhome.jpg");
+  background-image: url("4.jpg");
 }
 h2 {
     font-family: "edoregular";
@@ -12,11 +12,14 @@ h3 {
   font-family: "edoregular";
   font-size: 45px;
 
+
 }
 
 h4 {
   font-size: 55px;
   font-family: "Oswald",sans-serif;
+  color:#ffdb4d;
+  
 }
 
 h5{
