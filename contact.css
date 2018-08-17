@@ -1,6 +1,7 @@
 body {
   font-family : 'edoregular';
-  font-family: 'Oswald', sans-serif
+  font-family: 'Oswald', sans-serif;
+  background-image: url("background.jpg");
 }
 h1 {
     color: #ffdb4d;
