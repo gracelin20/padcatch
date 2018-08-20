@@ -22,25 +22,7 @@
   <a href="partner.html" id="partner">Partner with Us</a>
   <a href="contact.html" id="contact">Contact</a>
   <a href="about.html" id="team">About the Team</a>
-  $(document).ready(function() {
-  var stickyNavTop = $('.nav').offset().top;
-
-  var stickyNav = function(){
-    var scrollTop = $(window).scrollTop();
-
-    if (scrollTop > stickyNavTop) { 
-      $('.nav').addClass('sticky');
-    } else {
-      $('.nav').removeClass('sticky'); 
-    }
-  };
-
-  stickyNav();
-
-  $(window).scroll(function() {
-    stickyNav();
-  });
-});
+ 
 
 </div>
 
