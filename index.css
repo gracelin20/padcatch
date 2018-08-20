@@ -35,7 +35,7 @@ h5{
 
 }
 #mySidenav a {
-    position: absolute;
+    position: fixed;
     left: -190px;
     transition: 0.2s;
     padding: 20px;
