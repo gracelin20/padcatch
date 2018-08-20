@@ -12,6 +12,25 @@
 
 </head>
 <body>
+  $(document).ready(function() {
+  var stickyNavTop = $('.nav').offset().top;
+
+  var stickyNav = function(){
+    var scrollTop = $(window).scrollTop();
+
+    if (scrollTop > stickyNavTop) { 
+      $('.nav').addClass('sticky');
+    } else {
+      $('.nav').removeClass('sticky'); 
+    }
+  };
+
+  stickyNav();
+
+  $(window).scroll(function() {
+    stickyNav();
+  });
+});
 
 <div id="mySidenav" class="sidenav">
   <a href="index.html" id="about">What's Pad Catch?</a>
