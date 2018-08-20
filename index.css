@@ -1,12 +1,12 @@
 
 body {
   font-family: "Oswald",sans-serif;
-  background-image: url("4.jpg");
+  background-image: url("background.jpg");
 }
 h2 {
     font-family: "edoregular";
     font-size: 70px;
-    color:#ffdb4d;
+    color:#FFA500;
 }
 
 h3 {
@@ -19,12 +19,12 @@ h3 {
 h4 {
   font-size: 55px;
   font-family: "Oswald",sans-serif;
-  color:#ffdb4d;
+  color:#FFA500;
 
 }
 
 h5{
-  font-size: 20px;
+  font-size: 25px;
   font-family: "Oswald",sans-serif;
   color: #000080;
 
